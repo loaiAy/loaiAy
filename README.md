@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loaiAy
-- 👀 I’m interested in software development/low level development/embedded systems/learn and grow 
+- 👀 I’m interested in software development/low level development/embedded systems/app development 
 - 🌱 I’m currently learning: computer science
 - 📫 How to reach me: luisort.93@gmail.com
 
